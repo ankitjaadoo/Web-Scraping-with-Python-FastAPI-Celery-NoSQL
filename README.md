@@ -1,1 +1,1 @@
-# Web-Scraping-with-Python-FastAPI-Celery-NoSQL
+# Web Scraping using Python FastAPI Celery and NoSQL
